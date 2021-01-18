@@ -125,4 +125,5 @@ form .searchInput {
 
 .searchBtn:hover {
   transform: translateX(-2px);
+  cursor: pointer;
 }
